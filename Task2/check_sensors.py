@@ -1,4 +1,4 @@
-# Importing pyyaml so we can read yml in python 
+# Importing packages
 import yaml
 import pandas as pd
 import json
